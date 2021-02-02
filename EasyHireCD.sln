@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyHireCD", "EasyHireCD\EasyHireCD.csproj", "{141AA2FB-4368-4087-BB50-BB45781C9F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyHireCD_UnitTestingProject", "EasyHireCD\EasyHireCD_UnitTestingProject\EasyHireCD_UnitTestingProject.csproj", "{4AD95A1D-2079-4D3D-A556-05BDCB1E2463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141AA2FB-4368-4087-BB50-BB45781C9F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141AA2FB-4368-4087-BB50-BB45781C9F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141AA2FB-4368-4087-BB50-BB45781C9F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141AA2FB-4368-4087-BB50-BB45781C9F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD95A1D-2079-4D3D-A556-05BDCB1E2463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD95A1D-2079-4D3D-A556-05BDCB1E2463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD95A1D-2079-4D3D-A556-05BDCB1E2463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD95A1D-2079-4D3D-A556-05BDCB1E2463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F8E0136-26F7-41A1-A10B-64D721CE8DE6}
+	EndGlobalSection
+EndGlobal
